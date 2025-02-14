@@ -17,7 +17,7 @@
 
 ## Projects
 
-- [wiliam.store](https://wiliam.store/): Description of project 1.
+- [wiliam.store](https://wiliam.store/) : E-commerce with wordpress.
 
 ## Connect with Me
 
